@@ -8,6 +8,14 @@ Tech Stack: HTML/CSS, Javascript, AWS.
 
 Screenshots:
 
+<p float="left">
+    <img src="https://github.com/Saad-usm/Green-Cap-Showcase/blob/main/screenshots/ss1.jpg?raw=true" height="250" width="auto">
+    <img src="https://github.com/Saad-usm/Green-Cap-Showcase/blob/main/screenshots/ss2.jpg?raw=true" height="250" width="auto">
+    <img src="https://github.com/Saad-usm/Green-Cap-Showcase/blob/main/screenshots/ss3.jpg?raw=true" height="250" width="auto">
+    <img src="https://github.com/Saad-usm/Green-Cap-Showcase/blob/main/screenshots/ss4.jpg?raw=true" height="250" width="auto">
+    <img src="https://github.com/Saad-usm/Green-Cap-Showcase/blob/main/screenshots/ss5.jpg?raw=true" height="250" width="auto">
+</p>
+
 ![ss1](https://github.com/Saad-usm/Green-Cap-Showcase/assets/77473248/b3837558-3552-4f3b-8590-826a4dc8d302)
 ![ss2](https://github.com/Saad-usm/Green-Cap-Showcase/assets/77473248/22fef1e3-3cb0-487e-b2ba-fc116641628b)
 ![ss3](https://github.com/Saad-usm/Green-Cap-Showcase/assets/77473248/b8a21b4f-a8e4-4319-93c8-9d7357d776a6)
