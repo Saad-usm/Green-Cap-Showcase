@@ -1,5 +1,5 @@
 # Green-Cap-Showcase
-Chrome extension to display ESG ratings of products when shopping on Amazon.
+Repository made to showcase Greencap, a chrome extension to display ESG ratings of products when shopping on Amazon.
 
 Purpose:
 To provide shoppers with maximal information when they are shopping on the environmental effects of the products they buy.
